@@ -1,0 +1,15 @@
+/Users/izabelasowinska/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/izabelasowinska/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/izabelasowinska/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/izabelasowinska/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/izabelasowinska/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/izabelasowinska/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/izabelasowinska/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/izabelasowinska/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/izabelasowinska/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/izabelasowinska/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/izabelasowinska/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/izabelasowinska/Projects/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/izabelasowinska/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/izabelasowinska/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/izabelasowinska/Projects/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
