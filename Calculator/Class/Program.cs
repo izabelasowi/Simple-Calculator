@@ -13,7 +13,7 @@ namespace SimpleCalculator
 
         static void Main(string[] args)
         {
-            /*
+            
             bool exit = false;
 
             while (!exit)
@@ -42,7 +42,7 @@ namespace SimpleCalculator
                 {
                     Console.WriteLine(ex);
                     Console.ReadKey();
-                }*/
+                }
             kwadrat a = new kwadrat(5);
             kwadrat b = new kwadrat(2);
 
